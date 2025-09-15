@@ -1,0 +1,8 @@
+log
+test
+linux
+echap
+chat
+txt
+log
+test
